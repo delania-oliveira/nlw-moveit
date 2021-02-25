@@ -23,3 +23,9 @@
     top: 12px;
     transform: translateX(-50%);
 }
+
+@media(max-height: 1366px) {
+    .experienceBar {
+      margin-bottom: 3rem;
+    }
+  }
