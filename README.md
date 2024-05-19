@@ -23,7 +23,7 @@
 
 ```
 #clone repository
-$ git clone https://github.com/sihann/nlw-moveit.git
+$ git clone https://github.com/delania-oliveira/nlw-moveit.git
 
 
 # install dependencies
